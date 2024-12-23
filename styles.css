@@ -4,4 +4,12 @@
   box-sizing: border-box;
 }
 
+body {
+  color: red;
+  font-size: 24px;
+}
 
+h1 {
+  color: green;
+  font-size: 40px;
+}
